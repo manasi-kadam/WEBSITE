@@ -1,0 +1,125 @@
+.top-body {
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color:aliceblue;
+}
+.main-body{
+    background-color:lightcyan;
+    margin: 0;
+}
+.top-container {
+    display: block;
+    
+    }
+
+
+img {
+    background-color azure;;
+}
+
+.circular {
+    position: absolute;
+    right: 15px;
+    
+
+    
+}
+.bottom-container
+{
+position: absolute;
+right: 10px;
+background-color:lightcyan;
+}
+
+.web {
+    position: absolute;
+    top: 400px;
+    left: 300px;
+    
+
+}
+.man {
+    position: absolute;
+    right: 300px;
+    top:100px;
+}
+.mob {
+    position: absolute;
+    right: 300px;
+    top:850px;
+}
+body {
+    background-color:lightcyan;
+    margin: 0 50 0 50;
+}
+h1 {
+    font-family: 'Sacramento', serif; 
+    font-size:100px;
+    color:purple;
+    padding-bottom: 0;
+
+}
+h3 {
+    color:darkred;
+    font-size: 20px;
+    margin-top: 5px;
+    font-family: 'Merriweather', sans-serif;
+    margin-left: 50px;
+    margin-right: 50px;
+  
+}
+.h2 {
+    font-family: 'Montserrat', serif;
+    font-size: 80px;
+}
+.ook {
+    text-decoration:underline ;
+}
+.middle-body {
+    background-color: azure;
+    height: 1200px;
+    width: 100%;
+    position: absolute;
+    top:845px;
+
+}
+.bottom-body {
+    background-color: ghostwhite;
+    height: 350px;
+    width: 100%;
+    position: absolute;
+    top: 1900px;
+}
+.contact {
+    position: relative;
+    top: 10px;
+    left: 500px;
+}
+.boo {
+    position: relative;
+    bottom: 300px;
+}
+.end-body {
+    background-color:darkcyan;
+    height: 150px;
+    width: 100%;
+    position: absolute;
+    top:2220px;
+    text-align: center;
+
+}
+.h4 {
+    font-size: 20px;
+    margin: 0 50 0 50;
+}
+hr {
+    background-color:  ghostwhite;
+    border-style:none;
+    border-top-style: dotted;
+    height: 0px;
+    width: 5%;
+    border-color: grey;
+    border-width: 10px;
+}
